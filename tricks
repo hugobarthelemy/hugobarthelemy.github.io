@@ -1,0 +1,6 @@
+<p>Check if isn't nil before processing use <code>&amp;.</code></p>
+
+<p><code>&amp;.strip</code></p>
+
+<p>Rails HTTP status code
+https://gist.github.com/mlanett/a31c340b132ddefa9cca</p>
